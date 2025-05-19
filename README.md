@@ -29,18 +29,31 @@ The **Elevator Monitoring System** is a real-time computer vision-based safety s
 ##  System Architecture
 
 +------------------+ +-------------------------+
+
 |  Camera | -----> | Elevator Door Detector |
+
 +------------------+ +-------------------------+
+
 |
+
 v
+
 +-----------------------------+
+
 | Forklift & Plate Detection |
+
 +-----------------------------+
+
 |
+
 v
+
 +--------------------------------+
+
 | Alert System & Violation Logger |
+
 +--------------------------------+
+
 
 ##  Technologies Used
 
