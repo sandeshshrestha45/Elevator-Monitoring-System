@@ -1,0 +1,6 @@
+closed
+open
+sliding
+forklift
+human
+number_location
